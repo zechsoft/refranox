@@ -44,50 +44,50 @@ const Contact = () => {
 
   const offices = [
     {
-      name: 'Head Office - Chennai',
-      address: '25/8A, Old Bank of Baroda Street, Ambattur OT, Chennai - 600053, Tamil Nadu, India',
-      phone: '+91-9677208721',
-      email: 'info@ripl.co.in',
+      name: 'Head Office - Mumbai',
+      address: 'Plot No. 123, Industrial Area, Andheri (East), Mumbai - 400099, Maharashtra, India',
+      phone: '+91-22-XXXX-XXXX',
+      email: 'mumbai@refranox.com',
       timings: 'Mon-Fri: 9:00 AM - 6:00 PM',
       type: 'Primary'
     },
     {
       name: 'Northern Region - Delhi',
       address: 'Sector 15, Industrial Area, Gurgaon - 122015, Haryana, India',
-      phone: '+91-7358108721',
-      email: 'delhi@ripl.co.in',
+      phone: '+91-124-XXXX-XXXX',
+      email: 'delhi@refranox.com',
       timings: 'Mon-Fri: 9:00 AM - 6:00 PM',
       type: 'Regional'
     },
     {
-      name: 'Southern Region - Bangalore',
-      address: 'Electronic City, Bangalore - 560100, Karnataka, India',
-      phone: '+91-9677208721',
-      email: 'bangalore@ripl.co.in',
+      name: 'Southern Region - Chennai',
+      address: 'Guindy Industrial Estate, Chennai - 600032, Tamil Nadu, India',
+      phone: '+91-44-XXXX-XXXX',
+      email: 'chennai@refranox.com',
       timings: 'Mon-Fri: 9:00 AM - 6:00 PM',
       type: 'Regional'
     },
     {
       name: 'Eastern Region - Kolkata',
       address: 'Salt Lake Electronics Complex, Kolkata - 700091, West Bengal, India',
-      phone: '+91-7358108721',
-      email: 'kolkata@ripl.co.in',
+      phone: '+91-33-XXXX-XXXX',
+      email: 'kolkata@refranox.com',
       timings: 'Mon-Fri: 9:00 AM - 6:00 PM',
       type: 'Regional'
     },
     {
       name: 'Western Region - Pune',
       address: 'Pimpri-Chinchwad Industrial Area, Pune - 411019, Maharashtra, India',
-      phone: '+91-9677208721',
-      email: 'pune@ripl.co.in',
+      phone: '+91-20-XXXX-XXXX',
+      email: 'pune@refranox.com',
       timings: 'Mon-Fri: 9:00 AM - 6:00 PM',
       type: 'Regional'
     },
     {
       name: 'Gujarat Operations - Vadodara',
       address: 'GIDC Industrial Estate, Vadodara - 390003, Gujarat, India',
-      phone: '+91-7358108721',
-      email: 'vadodara@ripl.co.in',
+      phone: '+91-265-XXXX-XXXX',
+      email: 'vadodara@refranox.com',
       timings: 'Mon-Fri: 9:00 AM - 6:00 PM',
       type: 'Operational'
     }

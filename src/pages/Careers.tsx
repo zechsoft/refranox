@@ -625,8 +625,8 @@ const Careers = () => {
               Our HR team is here to help you with any questions about career opportunities at REFRANOX.
             </p>
             <div className="space-y-2 text-blue-200">
-              <p>📧 careers@refranox.com</p>
-              <p>📞 +91-XXX-XXXX-XXX (HR Department)</p>
+              <p>📧 careers@ripl.co.in</p>
+              <p>📞 +91-9677208721 (HR Department)</p>
               <p>🕒 Monday to Friday, 9:00 AM - 6:00 PM</p>
             </div>
           </motion.div>
