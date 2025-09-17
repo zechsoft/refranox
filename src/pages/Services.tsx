@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Shield, Flame, Building2, Volume2, CheckCircle, ArrowRight, Layers, Snowflake, Zap, Wind Award } from 'lucide-react';
+import { Shield, Flame, Building2, Volume2, CheckCircle, ArrowRight, Layers, Snowflake, Zap, Wind, Award } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Services = () => {
