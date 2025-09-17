@@ -26,28 +26,28 @@ const Home = () => {
     {
       icon: Shield,
       title: 'Hot & Cold Insulation',
-      description: 'Thermal insulation for pipelines, tanks, and equipment for energy efficiency and temperature control.',
+      description: 'Advanced thermal insulation including PIR, PUR, Phenolic Foam, and Cellular Glass for superior energy efficiency.',
       color: 'text-blue-600',
       bgColor: 'bg-blue-50'
     },
     {
       icon: Flame,
       title: 'Refractory Lining & Castables',
-      description: 'High-temperature resistant brick, gunning, ceramic, and castable lining solutions.',
+      description: 'High-temperature resistant materials including Calcium Silicate and advanced refractory systems up to 1000°C.',
       color: 'text-red-600',
       bgColor: 'bg-red-50'
     },
     {
       icon: Building2,
       title: 'Furnace & Boiler Insulation',
-      description: 'Specialized furnace lining and boiler shutdown & repair services for extended equipment life.',
+      description: 'Complete roof, wall, soffit insulation and EIFS systems for commercial and industrial buildings.',
       color: 'text-orange-600',
       bgColor: 'bg-orange-50'
     },
     {
       icon: Volume2,
-      title: 'Acoustic & Duct Insulation',
-      description: 'Noise control solutions for HVAC ducts and PEB structures ensuring compliance.',
+      title: 'Pre-Insulated Duct Systems',
+      description: 'Factory-manufactured PF/PIR pre-insulated ductwork for HVAC and industrial ventilation systems.',
       color: 'text-green-600',
       bgColor: 'bg-green-50'
     }

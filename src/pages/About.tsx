@@ -118,22 +118,22 @@ const About = () => {
               <h2 className="text-4xl font-bold text-gray-900 mb-6">Our Story</h2>
               <div className="space-y-4 text-lg text-gray-600">
                 <p>
-                  Founded in 1999, REFRANOX began as a vision to provide superior thermal protection 
+                  Founded in 1999, REFRANOX Insulation Private Limited (RIPL) began as a vision to provide superior thermal protection 
                   solutions for India's growing industrial sector. What started as a small team of 
                   dedicated engineers has evolved into one of the country's most trusted names in 
-                  industrial insulation.
+                  industrial and commercial insulation.
                 </p>
                 <p>
                   Over the past 25 years, we have consistently pushed the boundaries of innovation, 
-                  developing cutting-edge techniques and materials that have set new industry standards. 
-                  Our commitment to excellence has earned us the trust of leading industrial giants 
-                  across diverse sectors.
+                  incorporating advanced materials like PIR, PUR, Phenolic Foam, and Cellular Glass 
+                  insulation systems. Our commitment to excellence has earned us the trust of leading 
+                  industrial giants and commercial developers across diverse sectors.
                 </p>
                 <p>
-                  Today, REFRANOX stands as a testament to the power of engineering expertise, 
+                  Today, RIPL stands as a testament to the power of engineering expertise, 
                   unwavering quality standards, and customer-centric approach. We continue to 
-                  expand our capabilities while staying true to our core values of safety, 
-                  quality, and reliability.
+                  expand our product range and manufacturing capabilities while staying true to our 
+                  core values of safety, quality, and reliability.
                 </p>
               </div>
             </motion.div>
